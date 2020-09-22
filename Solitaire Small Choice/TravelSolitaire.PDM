@@ -1,0 +1,179 @@
+[Root]
+Most Recent Package=TravelSolitaire
+
+
+[Package|TravelSolitaire|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\Package (3)
+
+[Package|TravelSolitaire|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TravelSolitaire|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TravelSolitaire|Files Found]
+
+[Package|TravelSolitaire|Files Released]
+
+[Package|TravelSolitaire|Missing Dependency Information]
+
+[Package|TravelSolitaire|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+
+[Package|TravelSolitaire|Files Added]
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\GRAPH07.ICO=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC05.ICO=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC15.ICO=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireBlank.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1a.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1b.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1c.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1d.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1e.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1f.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1g.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1h.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1i.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1j.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled2.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled3.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled4.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled5.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled6.bmp=
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled7.bmp=
+
+[Package|TravelSolitaire|Files Removed]
+
+[Package|TravelSolitaire|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\TravelSolitaire.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\GRAPH07.ICO=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC05.ICO=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC15.ICO=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireBlank.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1a.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1b.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1c.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1d.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1e.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1f.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1g.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1h.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1i.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1j.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled2.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled3.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled4.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled5.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled6.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled7.bmp=Yes
+
+[Package|TravelSolitaire|Configure Registry Files]
+Applicable=No
+
+[Package|TravelSolitaire|Configure Remote Servers]
+Applicable=No
+
+[Package|TravelSolitaire|Install Locations]
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\TravelSolitaire.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\GRAPH07.ICO=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC05.ICO=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC15.ICO=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireBlank.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1a.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1b.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1c.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1d.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1e.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1f.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1g.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1h.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1i.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1j.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled2.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled3.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled4.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled5.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled6.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled7.bmp=$(AppPath)
+
+[Package|TravelSolitaire|Configure Shared Files]
+Applicable=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\TravelSolitaire.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\GRAPH07.ICO=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC05.ICO=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\MISC15.ICO=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireBlank.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1a.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1b.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1c.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1d.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1e.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1f.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1g.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1h.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1i.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled1j.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled2.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled3.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled4.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled5.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled6.bmp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\SolitaireFilled7.bmp=No
+
+[Package|TravelSolitaire|Distribution]
+Type=single
+Size=
+Title=TravelSolitaire
+
+[Package|TravelSolitaire|IconGroups]
+Group0=TravelSolitaire
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|TravelSolitaire|TravelSolitaire]
+Icon1=TravelSolitaire.exe
+Title1=TravelSolitaire
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TravelSolitaire|Package]
+PackageFolder=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\Package (3)
+ProjectFolder=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small
+ServerSideCab=
+File1=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\Package (3)\setup.exe
+File2=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\Package (3)\Setup.Lst
+File3=C:\Program Files\Microsoft Visual Studio\VB98\Solitaire Small\Package (3)\TravelSolitaire.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
